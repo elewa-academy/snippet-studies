@@ -18,3 +18,5 @@ exercises & study links.
 
 helpful link.  urls to good online resources that cover this feature of js
 
+example: https://github.com/elewa-academy/block-scope-let-vs-var#index
+
