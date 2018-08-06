@@ -16,6 +16,12 @@ exercises & study links.
 	debugger: snippets directly in the text
 	sketches you made
 
+review
+	things you struggled with
+	things you learned
+	vocab
+	next steps
+
 helpful link.  urls to good online resources that cover this feature of js
 
 example: https://github.com/elewa-academy/block-scope-let-vs-var#index
