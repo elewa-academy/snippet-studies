@@ -7,6 +7,7 @@ name of this study (something you'll remember)
 description of snippet.  how you chose/designed this snippet for this concept. ...
 
 main learning objective. should be short and isolated, related directly to how JS works.
+	include a list of each language feature in the snippet
 
 the code it, copy pasted for later reference
 
